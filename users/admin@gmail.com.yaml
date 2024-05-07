@@ -1,0 +1,10 @@
+super: true
+name: admin
+id: 975d357f-f18c-4716-934f-86cdaa13dd56
+password_hash: $2y$10$IX2BpfSnXJYZCPSQ92kWV.5ChnAQUlFVERahpIKS9cYoxaAiFr4Li
+preferences:
+  collections:
+    pages:
+      filters:
+        posts:
+          display: Posts
